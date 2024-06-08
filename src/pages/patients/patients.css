@@ -1,0 +1,31 @@
+.Patients{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.Patients-first-block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 80px;
+}
+.Patients-first-block-output{
+    padding: 40px 80px;
+    width: 1280px;
+    height: 720px;
+    border-radius: 10px;
+}
+.Patients-first-block-title{
+    display: flex;
+    justify-content: center;
+}
+.PIB{
+    margin-right: 126px;
+}
+.Email{
+    margin-left: 107px;
+    margin-right: 224px;
+}
+.Directions{
+    margin-right: 128px;
+}

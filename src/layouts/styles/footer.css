@@ -1,0 +1,45 @@
+.App-footer{
+    margin-top: auto;
+    height: 320px;
+
+}
+.Container-footer{
+    display: flex;
+    justify-content: center;
+}
+.Logo-footer{
+    margin-top: 130px;
+    display: flex;
+}
+.title-logo-footer{
+    text-align: center;
+    width: 230px;
+    margin-top: 5px;
+}
+.Links-footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 96px;
+    margin-top: 60px;
+}
+.link-footer-colum{
+    display: block;
+    margin-bottom: 12px;
+}
+.link-footer-colum:hover{
+    color: #23AB7D;
+}
+.Contact-footer{
+    margin-top: 60px;
+    margin-left: 83px;
+    width: 292px;
+}
+.contact-footer-colum{
+    margin-bottom: 7px;
+}
+.AboutUs-footer{
+    width: 292px;
+    margin-top: 60px;
+    margin-left: 24px;
+}

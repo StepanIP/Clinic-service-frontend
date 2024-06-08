@@ -1,0 +1,17 @@
+.dropzone {
+    border: 2px dashed #23AB7D;
+    border-radius: 10px;
+    width: 445px;
+    height: 120px;
+    padding: 40px;
+    margin-top: 19px;
+    margin-bottom: 19px;
+    cursor: pointer;
+    text-align: center;
+    /*width: 100%;*/
+}
+.dropzone-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

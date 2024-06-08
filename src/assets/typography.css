@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');
+
+/*----------------------------Typography styles----------------------------*/
+.Display-1{
+    font-family: 'Montserrat Alternates', sans-serif;;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Display-2{
+    font-family: 'Montserrat Alternates', sans-serif;;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Title{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.Caption{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2.88px;
+    text-transform: uppercase;
+}
+.Caption-no-spacing {
+    letter-spacing: 1px;
+}
+.Body{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%; /* 22.4px */
+}
+.Body2{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%; /* 25.2px */
+}
+.Button-text-1{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+}
+.Button-text-2{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.Small{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Button-text-link-1{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+    color: #23AB7D;
+    text-align: center;
+    text-decoration-line: underline;
+    transition: color 0.3s;
+    border: none;
+    background: none;
+
+}
+.Button-text-link-1:hover {
+    color: #212124;
+}
+.Button-text-link-2{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:#23AB7D;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration-line: underline;
+    transition: color 0.3s;
+
+    display: inline-flex;
+    padding: 2px 3px;
+    align-items: center;
+    gap: 6px;
+    border: none;
+    background: none;
+}
+.Button-text-link-2:hover {
+    color: #212124;
+}

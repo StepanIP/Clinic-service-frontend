@@ -1,0 +1,85 @@
+.Home{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.First-block{
+    height: 720px;
+    display: flex;
+    justify-content: center;
+    background-image: url("../../assets/home-contactUs-edit.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.First-block-items{
+    position: absolute;
+    width: 960px;
+    margin-top: 122px;
+}
+.First-block-title{
+    width: 480px;
+}
+.First-block-body{
+    width: 482px;
+    margin-top: 40px;
+}
+.Second-block{
+    height: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Second-block-body{
+    text-align: center;
+    width: 1121px;
+}
+.Third-block{
+    height: 640px;
+    display: flex;
+    justify-content: center;
+}
+.Third-block-title {
+    position: absolute;
+    margin-top: 80px;
+    text-align: center;
+}
+.Third-block-img{
+    background-image: url("../../assets/home-third-block.jpg");
+    width: 548px;
+    height: 360px;
+    border-radius: 10px;
+    margin-top: 200px;
+    margin-right: 12px;
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Third-block-content{
+    width: 548px;
+    height: 360px;
+    border-radius: 10px;
+    margin-top: 200px;
+    margin-left: 12px;
+}
+.Third-block-content-title{
+    margin: 30px 24px 24px 30px;
+}
+.Third-block-content-body{
+    width: 488px;
+    margin: 30px 24px 24px 30px;
+}
+
+.ContactUs-title{
+    margin-top: 120px;
+    text-align: center;
+}
+
+.ContactUs-container{
+    margin-bottom: 80px;
+    margin-top: 55px;
+    display: flex;
+    justify-content: center;
+}

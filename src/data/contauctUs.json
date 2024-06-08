@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "телефон",
+    "content1": "(380) 973-516-905",
+    "content2": "(380) 696-512-481",
+    "image": "/component-home-phone.svg"
+  },
+  {
+    "id": 2,
+    "title": "Розташування",
+    "content1": "вул. В'ячеслава Чорновола, 44",
+    "content2": "Івано-Франківськ",
+    "image": "/component-home-locate.svg"
+  },
+  {
+    "id": 3,
+    "title": "Пошта",
+    "content1": "podoroznik@gmil.com",
+    "content2": "kropiva@gmail.com",
+    "image": "/component-home-email.svg"
+  },
+  {
+    "id": 4,
+    "title": "робочі години",
+    "content1": "Пн-Сб 09:00-20:00",
+    "content2": "Нд в екстрених випадках",
+    "image": "/component-home-hour.svg"
+  }
+]

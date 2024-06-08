@@ -1,0 +1,23 @@
+.button{
+    /*margin: 15px;*/
+    padding: 13px 35px;
+    border-radius: 50px;
+    height: 48px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.V1{
+    border: none;
+}
+.V2{
+    border: 2px solid;
+}
+.V2:hover{
+    position: relative;
+    transition: 0.3s;
+    background-color: #23AB7D;
+    color: white;
+    border: none;
+
+}

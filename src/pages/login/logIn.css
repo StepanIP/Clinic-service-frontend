@@ -1,0 +1,36 @@
+.LogIn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.LogIn {
+    background: linear-gradient(305deg, #E4F3ED 0%, #81DCBD 50%, #23AB7D 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.LogIn-Form{
+    border-radius: 15px;
+    padding: 30px 80px;
+
+}
+.LogIn-card-title{
+    text-align: center;
+}
+.LogIn-input-group{
+    margin-top: 60px;
+}
+.LogIn-inp1{margin-bottom: 40px}
+.LogIn-button-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 35px;
+}
+.link{
+    text-align: center;
+    margin-top: 19px;
+}
+.link:hover{color: #8A8A8A;}

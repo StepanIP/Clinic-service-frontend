@@ -1,0 +1,50 @@
+body{
+    background-color: #CCE8DC;
+}
+.ProcedureRooms{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.ProcedureRooms-first-block{
+    height: 320px;
+    background: url("../../assets/procedureRooms-title.jpg");
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ProcedureRooms-first-block-blur{
+    height: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.ProcedureRooms-second-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 240px;
+}
+.ProcedureRooms-second-block-bg{
+    border-radius: 10px;
+    width: 960px;
+    padding: 40px 80px;
+}
+
+.ProcedureRooms-second-block-search{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.ProcedureRooms-second-block-search-1 {
+    text-align: right;
+    margin-right: auto;
+}
+.ProcedureRooms-second-block-search-2 {
+    text-align: left;
+    margin-left: auto;
+}

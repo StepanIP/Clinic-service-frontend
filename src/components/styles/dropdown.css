@@ -1,0 +1,34 @@
+.custom-dropdown {
+    background-color: #23ab7d; /* Замініть на ваш колір */
+    border: none;
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+.custom-dropdown .dropdown-item {
+    color: #23AB7D; /* Замініть на ваш колір */
+}
+.custom-dropdown:hover {
+    background-color: #ffffff; /* Замініть на ваш колір */
+    border: none;
+    color: #23ab7d;
+    box-shadow: #81DCBD 0px 0px 10px;
+}
+.custom-dropdown:active {
+    background-color: #23ab7d !important; /* Замініть на ваш колір */
+    box-shadow: #81DCBD 0px 0px 10px;
+}
+
+.custom-dropdown:focus {
+    background-color: #ffffff; /* Замініть на ваш колір */
+    border: none;
+    box-shadow: #81DCBD 0px 0px 10px;
+    color: #23ab7d;
+}
+
+.custom-dropdown:focus-visible {
+    background-color: #ffffff; /* Замініть на ваш колір */
+    border: none;
+    box-shadow: #81DCBD 0px 0px 10px;
+    color: #23ab7d;
+}

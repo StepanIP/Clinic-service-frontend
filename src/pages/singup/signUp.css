@@ -1,0 +1,38 @@
+.SignUp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.SignUp {
+    background: linear-gradient(305deg, #E4F3ED 0%, #81DCBD 50%, #23AB7D 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.SignUp-Form{
+    padding: 30px 80px;
+    border-radius: 15px;
+}
+.Card-title{
+    text-align: center;
+}
+.SignUp-input-group{
+    margin-top: 30px;
+}
+.SignUp-inp1{margin-bottom: 52px}
+.checkbox{
+    margin-top: -10px;
+}
+.SignUp-button-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 35px;
+}
+.link{
+    text-align: center;
+    margin-top: 19px;
+}
+.link:hover{color: #8A8A8A;}

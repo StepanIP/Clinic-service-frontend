@@ -1,0 +1,152 @@
+.Account {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #f7f7f7; /* Світло-сірий фон сторінки */
+}
+
+.Account-block {
+    padding: 80px 320px;
+    display: flex;
+    justify-content: center;
+    background-color: #CCE8DC; /* Темно-блакитний фон блоку */
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Додаємо тінь до блоку */
+}
+
+.Account-nav {
+    margin-right: 24px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 24px 0;
+    background-color: #CCE8DC; /* Темно-блакитний фон навігації */
+    color: #fff; /* Білий текст навігації */
+}
+
+.Account-nav-button {
+    margin-bottom: 15px;
+    background-color: #23AB7D; /* Жовто-зелений колір кнопок */
+    color: #fff; /* Білий текст кнопок */
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.Account-nav-button-link {
+    margin-left: 5px;
+    color: #fff; /* Білий текст посилання */
+    text-decoration: none;
+}
+
+.Account-inf {
+    border-radius: 20px;
+    width: 625px;
+    padding: 40px 40px 25px 40px;
+    background-color: #f7f7f7; /* Світло-сірий фон блоку інформації */
+}
+
+.Account-inf-pers-first-block {
+    display: flex;
+    align-items: center; /* Центруємо контент вертикально */
+}
+
+.Account-inf-pers-first-block-dynamic {
+    width: 210px;
+    margin-right: 90px;
+}
+
+.Account-inf-pers-second-block-dynamic {
+    border-radius: 10px;
+    width: 210px;
+    height: 52px;
+    border: 1px solid #ddd; /* Додаємо рамку до поля вводу */
+    padding: 1px 5px;
+}
+
+.Account-inf-pers-second-block-state {
+    margin-left: 35px;
+    width: 200px;
+}
+
+.Account-inf-pers-second-block {
+    display: flex;
+    margin-top: 22px;
+    align-items: center; /* Центруємо контент вертикально */
+}
+
+.Account-inf-pers-button {
+    margin-top: 22px;
+    color: #fff; /* Білий текст кнопок */
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.Account-inf-offset-first-block {
+    display: flex;
+    align-items: center; /* Центруємо контент вертикально */
+}
+
+.Account-inf-offset-first-block-data {
+    width: 150px;
+    margin-right: 95px;
+}
+
+.Account-inf-data-first-block {
+    margin-top: 15px;
+    display: flex;
+    align-items: center; /* Центруємо контент вертикально */
+}
+
+.Account-inf-data-first-block-data {
+    width: 240px;
+    margin-right: 60px;
+}
+
+.acnt {
+    display: flex;
+    margin: 12px;
+}
+
+.one {
+    width: 100px;
+    margin-right: 20px;
+}
+
+.two {
+}
+
+/* Додаткові налаштування шрифтів */
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+.tableAccount {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.acnt {
+    width: 100%;
+}
+
+th, td {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
